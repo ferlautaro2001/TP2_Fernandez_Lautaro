@@ -1,0 +1,5 @@
+  LV        VG      Attr       LSize Pool Origin Data%  Meta%  Move Log Cpy%Sync Convert
+  lv_web1   vg_web  -wi-a----- 1.00g                                                    
+  lv_web2   vg_web  -wi-a----- 1.00g                                                    
+  lv_web3   vg_web  -wi-a----- 1.00g                                                    
+  lvpruebas vgdatos -wi-ao---- 1.50g                                                    
